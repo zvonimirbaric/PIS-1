@@ -8,5 +8,6 @@ namespace Projekt1
 {
     class Class1
     {
+        /* fdsgnsdfngjdfngjsdfabnjbn */
     }
 }
